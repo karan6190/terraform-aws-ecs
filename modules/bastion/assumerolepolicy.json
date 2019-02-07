@@ -1,0 +1,9 @@
+{
+    "Statement": [
+        {
+            "Resource": "*",
+            "NotAction": "iam:*",
+            "Effect": "Allow"
+        }
+    ]
+}
